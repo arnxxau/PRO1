@@ -5,9 +5,8 @@
 using namespace std;
 
 int main(){
-    int x,y;
-    cin >> x >> y;
-    cout << min(x,y) << endl;
+    int x,y,z;
+    cin >> x >> y >> z;
+    int r1 = max(x,y);
+    cout << max(r1,z)<< endl;
 }
-
-
