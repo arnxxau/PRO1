@@ -13,3 +13,4 @@ add_executable(Maximum_of_three_integer_numbers-P90615 "P1 - Introduction/Maximu
 add_executable(Rounding-P92613 "P1 - Introduction/Rounding-P92613.cpp")
 add_executable(Temperatures-P15613 "P1 - Introduction/Temperatures-P15613.cpp")
 add_executable(Uppercase_and_lowercase_letters-P98960 "P1 - Introduction/Uppercase_and_lowercase_letters-P98960.cpp")
+add_executable(Classification_of_characters_P42042 "P1 - Introduction/Classification_of_characters_(1)-P42042.cpp")
