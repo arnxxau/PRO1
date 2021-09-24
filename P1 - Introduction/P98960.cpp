@@ -1,4 +1,4 @@
-//
+// P98960   Uppercase and lowercase letters
 // Created by arnxxau on 13/9/21.
 //
 
@@ -9,9 +9,9 @@
 using namespace std;
 
 int main(){
-    unsigned char x;
+    char x;
     cin >> x;
-    if(x>=97 && x<=122)x=x-32;
+    if (x >= 97 && x <= 122) x=x-32;
     else x=x+32;
     cout << x << endl;
 }

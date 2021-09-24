@@ -1,4 +1,4 @@
-//
+// P56559   Intervals (2)
 // Created by arnxxau on 17/09/2021.
 //
 #include "iostream"
@@ -11,8 +11,8 @@ int main() {
     int a1, b1, a2, b2;
     cin >> a1 >> b1 >> a2 >> b2;
 
-    if (a1 == a2 && b1 == b2) cout << "=" << endl;
-    else if (a2 >= a1 && b1 >= b2) cout << "2" << endl; //2 inside 1
-    else if (a1 >= a2 && b2 >= b1) cout << "1" << endl; //1 inside 2
+    if (a1 == a2 and b1 == b2) cout << "=" << endl;
+    else if (a2 >= a1 and b1 >= b2) cout << "2" << endl; //2 inside 1
+    else if (a1 >= a2 and b2 >= b1) cout << "1" << endl; //1 inside 2
     else cout << "?" << endl;
 }

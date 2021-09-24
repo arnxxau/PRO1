@@ -1,13 +1,13 @@
-//
+// X54725   Minimum of two integers
 // Created by arnxxau on 13/9/21.
 //
 #include "iostream"
 using namespace std;
 
 int main(){
-    int x,y;
+    int x, y;
     cin >> x >> y;
-    cout << (x+y)/ 2.0 << endl;
+    cout << min(x,y) << endl;
 }
 
 

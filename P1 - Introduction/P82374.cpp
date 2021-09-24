@@ -1,4 +1,4 @@
-//
+// P37297   Control C101A
 // Created by arnxxau on 20/09/2021.
 //
 #include "iostream"
@@ -8,6 +8,6 @@ int main() {
     int x, a, b, c, d;
     cin >> x >> a >> b >> c >> d;
 
-    if((x >= a && x <= b)  || (x >= c && x <= d)) cout << "yes" << endl;
+    if((x >= a and x <= b)  or (x >= c and x <= d)) cout << "yes" << endl;
     else cout << "no" << endl;
 }

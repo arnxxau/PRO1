@@ -1,4 +1,4 @@
-//
+// P34279   Add one second
 // Created by arnxxau on 20/09/2021.
 //
 #include "iostream"
@@ -25,7 +25,7 @@ int main() {
     if(m < 10) output += ":0" + to_string(m);
     else output += ":" + to_string(m);
     if(s < 10) output += ":0" + to_string(s);
-    else output+= ":" + to_string(s);
+    else output += ":" + to_string(s);
 
     cout << output << endl;
 }
