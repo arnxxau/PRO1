@@ -9,7 +9,7 @@ I beg you AKIRA, think differently otherwise you won’t be able to solve anythi
 cout << "Work in progress" << endl;
 ```
 Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. Please feel free to make a pull request if you find a more optimal way to solve them.
-##P0 - First contact
+## P0 - First contact
 - [P99182](https://github.com/arnxxau/PRO1/blob/master/P0%20-%20First%20contact/P99182.cpp) - Promedio
 - [X64734](https://github.com/arnxxau/PRO1/blob/master/P0%20-%20First%20contact/X64734.cpp) - Hello and Bye
 
