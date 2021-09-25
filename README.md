@@ -41,9 +41,5 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 ## Other resources
 - [Types of intersections](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/types_of_intersections.pdf)
 ---
->Tell my why AKIRA, why it must be this way? Is there even a solution to this?
-> AKIRA, please answer me, do you even know what you are doing or what you even want to know? Who am I?
-I beg you AKIRA, think differently otherwise you won’t be able to solve anything efficiently.
-> I beg you AKIRA, learn how to accept your future otherwise you won’t be able to feel.
 
-![Alt Text](https://media4.giphy.com/media/F8Df20x5o1ZwQ/giphy.gif)  
+![Alt Text](https://64.media.tumblr.com/b7e9111da88f6bb75ac5e57d7b07e080/tumblr_pbidbwbqcR1s5wiico1_500.gifv)  
