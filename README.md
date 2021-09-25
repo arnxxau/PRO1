@@ -1,10 +1,5 @@
-#PRO1
->Tell my why AKIRA, why it must be this way? Is there even a solution to this? 
-> AKIRA, please answer me, do you even know what you are doing or what you even want to know? Who am I?
-I beg you AKIRA, think differently otherwise you won’t be able to solve anything efficiently. 
-> I beg you AKIRA, learn how to accept your future otherwise you won’t be able to feel.
+# PRO1
 
-![Alt Text](https://media4.giphy.com/media/F8Df20x5o1ZwQ/giphy.gif)  
 ```c++
 cout << "Work in progress" << endl;
 ```
@@ -33,7 +28,7 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [P82374](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/P82374.cpp) - Control C102A
 - [P37297](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/P37297v2.cpp) -  Control C101A
 
-##P2 - First Loops
+## P2 - First Loops
 - [P37500](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P37500.cpp) - First numbers
 - [P31170](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P31170.cpp) - Multiplication table
 - [P64976](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P64976.cpp) - Control C201B
@@ -42,3 +37,9 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [P36668](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P36668.cpp) - Sum of squares
 - [P59539](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P59539.cpp) - Harmonic numbers (1)
 - [P55622](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P55622.cpp) - Number of digits
+>Tell my why AKIRA, why it must be this way? Is there even a solution to this?
+> AKIRA, please answer me, do you even know what you are doing or what you even want to know? Who am I?
+I beg you AKIRA, think differently otherwise you won’t be able to solve anything efficiently.
+> I beg you AKIRA, learn how to accept your future otherwise you won’t be able to feel.
+
+![Alt Text](https://media4.giphy.com/media/F8Df20x5o1ZwQ/giphy.gif)  
