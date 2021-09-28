@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.20)
 project(PRO1)
 
 set(CMAKE_CXX_STANDARD 14)
+
 add_executable(P92351 non-classified/P92351.cpp)
 add_executable(P99182 "P0 - First contact/P99182.cpp")
 add_executable(X64734 "P0 - First contact/X64734.cpp")
@@ -36,3 +37,16 @@ add_executable(P59875 "P2 - First Loops/P59875.cpp")
 add_executable(P64976 "P2 - First Loops/P64976.cpp")
 add_executable(P97156 "P2 - First Loops/P97156.cpp")
 add_executable(P51126v2 "P1 - Introduction/P51126v2.cpp")
+
+
+
+
+add_executable(P55622v2 "P2 - First Loops/P55622v2.cpp")
+add_executable(P74398 "P2 - First Loops/P74398.cpp")
+add_executable(P50327 "P2 - First Loops/P50327.cpp")
+add_executable(P28754 "P2 - First Loops/P28754.cpp")
+add_executable(P60816 "P2 - First Loops/P60816.cpp")
+add_executable(Untitled3 /Users/arnxxau/Downloads/Untitled3.cpp)
+add_executable(n n.cpp)
+add_executable(P39057 "P2 - First Loops/P39057.cpp")
+add_executable(X32391 "P2 - First Loops/X32391.cpp")
