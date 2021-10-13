@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 project(PRO1)
 
-set(CMAKE_CXX_STANDARD 14)
+#set(CMAKE_CXX_STANDARD 14)
 
 add_executable(P92351 non-classified/P92351.cpp)
 add_executable(P99182 "P0 - First contact/P99182.cpp")
