@@ -1,7 +1,7 @@
 // X59091   Rectangles (2)
 // Created by arnxxau on 9/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

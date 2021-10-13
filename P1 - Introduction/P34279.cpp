@@ -1,7 +1,7 @@
 // P34279   Add one second
 // Created by arnxxau on 20/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,7 +1,7 @@
 // X32391   Allowance (2)
 // Created by arnxxau on 28/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

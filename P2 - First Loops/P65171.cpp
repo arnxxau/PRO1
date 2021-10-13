@@ -1,7 +1,7 @@
 // P65171   Control C202B
 // Created by arnxxau on 3/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

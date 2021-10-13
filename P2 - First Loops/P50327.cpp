@@ -1,7 +1,7 @@
 // P50327   Reversed number
 // Created by arnxxau on 25/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

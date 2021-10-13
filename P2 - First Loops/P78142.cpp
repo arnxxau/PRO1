@@ -1,7 +1,7 @@
 // P78142   Average
 // Created by arnxxau on 30/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

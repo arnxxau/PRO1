@@ -1,7 +1,7 @@
 // P97969   Counting a's (1)
 // Created by arnxxau on 30/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

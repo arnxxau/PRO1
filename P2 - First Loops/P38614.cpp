@@ -1,7 +1,7 @@
 // P38614   Control C201A
 // Created by arnxxau on 5/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

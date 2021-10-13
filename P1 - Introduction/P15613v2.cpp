@@ -1,7 +1,7 @@
 // P15613   Temperatures
 // Created by arnxxau on 24/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

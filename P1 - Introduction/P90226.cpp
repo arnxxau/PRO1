@@ -1,7 +1,7 @@
 // P90226   Comparison of words
 // Created by arnxxau on 15/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main(){

@@ -1,7 +1,7 @@
 // P51352   Elementos
 // Created by arnxxau on 20/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

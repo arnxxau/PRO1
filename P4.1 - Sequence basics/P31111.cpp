@@ -1,7 +1,7 @@
 // P31111   Parentheses
 // Created by arnxxau on 12/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,8 +1,8 @@
 // P39057   Computing areas
 // Created by arnxxau on 28/9/21.
 //
-#include "iostream"
-#include "cmath"
+#include <iostream>
+#include <cmath>
 using namespace std;
 
 int main() {

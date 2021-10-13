@@ -1,7 +1,7 @@
 //   X01646   Sum of digits (2)
 // Created by arnxxau on 8/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

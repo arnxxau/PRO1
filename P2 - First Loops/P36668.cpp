@@ -1,7 +1,7 @@
 // P36668   Sum of squares
 // Created by arnxxau on 21/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

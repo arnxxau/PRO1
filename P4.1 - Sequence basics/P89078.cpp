@@ -1,7 +1,7 @@
 // P89078   First position
 // Created by arnxxau on 11/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

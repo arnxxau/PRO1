@@ -1,7 +1,7 @@
 // P34279   Add one second
 // Created by arnxxau on 24/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 //"%" is used in order to not pass the value 60 in some variables

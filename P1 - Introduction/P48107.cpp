@@ -1,7 +1,7 @@
 // P48107   Integer division and remainder of two natural numbers
 // Created by arnxxau on 20/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 //input: two ints

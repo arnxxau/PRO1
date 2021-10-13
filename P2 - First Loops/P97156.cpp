@@ -1,7 +1,7 @@
 // P97156   Numbers in an interval
 // Created by arnxxau on 21/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

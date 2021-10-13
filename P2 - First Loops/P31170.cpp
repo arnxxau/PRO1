@@ -1,7 +1,7 @@
 // P31170   Multiplication table
 // Created by arnxxau on 20/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

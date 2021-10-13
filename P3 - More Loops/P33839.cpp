@@ -1,7 +1,7 @@
 // P33839   Sum of digits
 // Created by arnxxau on 8/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,7 +1,7 @@
 // P27341   Control C202D
 // Created by arnxxau on 7/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,7 +1,7 @@
 // P34451   Control C201C
 // Created by arnxxau on 5/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

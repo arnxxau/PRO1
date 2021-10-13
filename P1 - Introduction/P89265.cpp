@@ -1,7 +1,7 @@
 // P89265   Intervals (3)
 // Created by arnxxau on 17/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 //input: 4 ints representing two intervals e.g; [1,2] [0,4]

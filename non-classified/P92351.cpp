@@ -1,7 +1,7 @@
 // P92351   Integer division and remainder of an integer number by a natural number
 // Created by arnxxau on 21/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

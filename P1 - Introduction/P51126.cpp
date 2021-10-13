@@ -1,7 +1,7 @@
 // P51126   Intervals (1)
 // Created by arnxxau on 15/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 //input: 4 ints representing two intervals e.g; [1,2] [0,4]

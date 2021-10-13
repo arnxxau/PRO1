@@ -1,7 +1,7 @@
 // P70955   How many seconds are they?
 // Created by arnxxau on 20/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 //input: five natural numbers that represent the years, days, hours, minutes and seconds

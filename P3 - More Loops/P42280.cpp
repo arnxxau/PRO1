@@ -1,7 +1,7 @@
 // P42280   Chess board (1)
 // Created by arnxxau on 8/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

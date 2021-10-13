@@ -1,7 +1,7 @@
 // P13623   Chess board (2)
 // Created by arnxxau on 8/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,7 +1,7 @@
 // P55622   Number of digits (1) - NO LOOP
 // Created by arnxxau on 21/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

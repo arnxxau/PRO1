@@ -1,7 +1,7 @@
 // P51126   Intervals (1) -  OPTIMISED
 // Created by arnxxau on 24/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

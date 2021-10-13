@@ -1,7 +1,7 @@
 // P98960   Uppercase and lowercase letters
 // Created by arnxxau on 13/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,7 +1,7 @@
 // P39225   I-th (1)
 // Created by arnxxau on 11/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

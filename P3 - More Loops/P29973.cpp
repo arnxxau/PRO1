@@ -1,7 +1,7 @@
 // P29973   Triangle
 // Created by arnxxau on 8/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

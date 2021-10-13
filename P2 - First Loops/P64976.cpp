@@ -1,7 +1,7 @@
 // P64976   Control C201B
 // Created by arnxxau on 21/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

@@ -1,7 +1,7 @@
 // P87198   Easy octagons
 // Created by arnxxau on 9/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

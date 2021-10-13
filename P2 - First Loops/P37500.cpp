@@ -1,7 +1,7 @@
 // P37500   First numbers
 // Created by arnxxau on 20/9/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

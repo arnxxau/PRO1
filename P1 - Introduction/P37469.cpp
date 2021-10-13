@@ -1,7 +1,7 @@
 // P37469   Time decomposition (1)
 // Created by arnxxau on 20/09/2021.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {

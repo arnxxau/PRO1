@@ -1,7 +1,7 @@
 // P12061   Words between two words
 // Created by arnxxau on 12/10/21.
 //
-#include "iostream"
+#include <iostream>
 using namespace std;
 
 int main() {
