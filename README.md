@@ -52,33 +52,33 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [P85370](https://github.com/arnxxau/PRO1/blob/master/P2%20-%20First%20Loops/P85370.cpp) - Interest (1)
 
 ## P3 - More Loops
-[P79817](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P79817.cpp) - Powers  
-[P33839](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P33839.cpp) - Sum of digits  
-[X08783](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X08783.cpp) - How many digits?  
-[X01646](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X01646.cpp) - Sum of digits (2)  
-[P29973](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P29973.cpp) - Triangle  
-[P32533](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P32533.cpp) - Control C202EC  
-[P42280](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P42280.cpp) - Chess board (1)  
-[P13623](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P13623.cpp) - Chess board (2)  
-[P87198](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P87198.cpp) - Easy octagons  
-[P58153](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P58153.cpp) - Harmonic numbers (2)  
-[P80660](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P80660.cpp) - The sequence of Collatz  
-[X59091](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X59091.cpp) - Rectangles (2)  
+- [P79817](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P79817.cpp) - Powers  
+- [P33839](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P33839.cpp) - Sum of digits  
+- [X08783](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X08783.cpp) - How many digits?  
+- [X01646](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X01646.cpp) - Sum of digits (2)  
+- [P29973](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P29973.cpp) - Triangle  
+- [P32533](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P32533.cpp) - Control C202EC  
+- [P42280](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P42280.cpp) - Chess board (1)  
+- [P13623](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P13623.cpp) - Chess board (2)  
+- [P87198](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P87198.cpp) - Easy octagons  
+- [P58153](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P58153.cpp) - Harmonic numbers (2)  
+- [P80660](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P80660.cpp) - The sequence of Collatz  
+- [X59091](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X59091.cpp) - Rectangles (2)  
 
 ## P4.1 - Sequence basics
-[P67454](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P67454.cpp) - Counting a's (2)  
-[P75149](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P75149.cpp) - Looking for an a  
-[P79784](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P79784.cpp) - Movements on the ground  
-[P89078](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P89078.cpp) - First position  
-[P32046](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P32046.cpp) - Control C202F  
-[P39225](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P39225.cpp) - I-th (1)  
-[P65103](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P65103.cpp) - I-th (3)  
-[P48713](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P48713.cpp) - Primality  
-[P31111](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P31111.cpp) - Parentheses  
-[P23001](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P23001.cpp) - Consecutive repeated words  
-[P12061](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P12061.cpp) - Words between two words  
-[P89872](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P89872.cpp) - Second maximum word  
-[P39308](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P39308.cpp) - Divisors in order  
+- [P67454](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P67454.cpp) - Counting a's (2)  
+- [P75149](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P75149.cpp) - Looking for an a  
+- [P79784](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P79784.cpp) - Movements on the ground  
+- [P89078](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P89078.cpp) - First position  
+- [P32046](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P32046.cpp) - Control C202F  
+- [P39225](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P39225.cpp) - I-th (1)  
+- [P65103](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P65103.cpp) - I-th (3)  
+- [P48713](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P48713.cpp) - Primality  
+- [P31111](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P31111.cpp) - Parentheses  
+- [P23001](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P23001.cpp) - Consecutive repeated words  
+- [P12061](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P12061.cpp) - Words between two words  
+- [P89872](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P89872.cpp) - Second maximum word  
+- [P39308](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P39308.cpp) - Divisors in order  
 ## Other resources
 - [Types of intersections](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/types_of_intersections.pdf)
 ---
