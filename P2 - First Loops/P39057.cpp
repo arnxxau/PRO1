@@ -12,15 +12,16 @@ int main() {
     cout.precision(6);
     for (int i = 0; i < n; i++) {
         string type;
-        double x1, x2;
         cin >> type;
         if (type == "rectangle") {
-            cin >> x1 >> x2;
-            cout << x1 * x2 << endl;
+            double b, h;
+            cin >> b >> h;
+            cout << b * h << endl;
         }
-        else if (type == "circle") {
-            cin >> x1;
-            cout << x1 * x1 * M_PI << endl;
+        else {
+            double r;
+            cin >> r;
+            cout << r * r * M_PI << endl;
         }
     }
 }
