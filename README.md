@@ -81,7 +81,7 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [P39308](https://github.com/arnxxau/PRO1/blob/master/P4.1%20-%20Sequence%20basics/P39308.cpp) - Divisors in order  
 
 ## Consolidation 1
-- [P57315](https://github.com/arnxxau/PRO1/blob/master/Consolidation%1/P57315.cpp) - ABC  
+- [P57315](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P57315.cpp) - ABC  
 ## Other resources
 - [Types of intersections](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/types_of_intersections.pdf)
 ---
