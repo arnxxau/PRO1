@@ -12,8 +12,7 @@ int main() {
         for (int j = 0; clm > j; ++j) {
             char n;
             cin >> n;
-            if ((i%2 == 0 and j%2 == 0) or
-                (i%2 != 0 and j%2 != 0)) sum += n-'0';
+            if (i%2 == j%2) sum += n-'0';
         }
     }
     cout << sum << endl;

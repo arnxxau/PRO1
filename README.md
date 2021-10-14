@@ -60,7 +60,7 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [P32533](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P32533.cpp) - Control C202EC  
 - [P42280](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P42280.cpp) - Chess board (1)  
 - [P13623](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P13623.cpp) - Chess board (2)  
-- [P87198](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P87198.cpp) - Easy octagons  
+- [P87198](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P87198v2.cpp) - Easy octagons  
 - [P58153](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P58153.cpp) - Harmonic numbers (2)  
 - [P80660](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/P80660.cpp) - The sequence of Collatz  
 - [X59091](https://github.com/arnxxau/PRO1/blob/master/P3%20-%20More%20Loops/X59091.cpp) - Rectangles (2)  
