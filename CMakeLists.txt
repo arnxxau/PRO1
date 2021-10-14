@@ -83,3 +83,5 @@ add_executable(P89872 "P4.1 - Sequence basics/P89872.cpp")
 add_executable(P39308 "P4.1 - Sequence basics/P39308.cpp")
 add_executable(P87198v2 "P3 - More Loops/P87198v2.cpp")
 add_executable(P32533v2 "P3 - More Loops/P32533v2.cpp")
+
+add_executable(P57315 "Consolidation 1/P57315.cpp")
