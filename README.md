@@ -83,7 +83,9 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 ## Consolidation 1
 - [P57315](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P57315.cpp) - ABC 
 - [P96589](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P96589.cpp) - Control C101C  
-- [X98097](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/X98097.cpp) - Related odd and even positions  
+- [X98097](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/X98097.cpp) - Related odd and even positions
+- [P19991](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P19991.cpp) - Chess board (3)
+- [P76024](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P76024.cpp) - Sum of fractions
 ## Other resources
 - [Types of intersections](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/types_of_intersections.pdf)
 ---
