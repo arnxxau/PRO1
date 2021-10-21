@@ -6,13 +6,11 @@ using namespace std;
 
 int main() {
     char p;
-    int left = 0, right = 0;
-    bool incohesion = false;
-    while (cin >> p) {
-        if (p == '(') ++left;
-        else ++right;
-        if (right > left) incohesion = true;
+    int counter = 0;
+    while (cin >> p and counter >= 0) {
+        if (p == '(') ++counter;
+        else --counter;
     }
-    if ((right == left and not incohesion) or p == 0) cout << "yes" << endl;
+    if (counter == 0) cout << "yes" << endl;
     else cout << "no" << endl;
 }

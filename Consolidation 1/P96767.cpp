@@ -2,14 +2,8 @@
 // Created by arnxxau on 19/10/21.
 //
 #include <iostream>
+#include <cmath>
 using namespace std;
-
-double pow (double x, int y) {
-    double p = x;
-    for (int i = 1; y > i; ++i) x *= p;
-    if (y == 0) x = 1;
-    return x;
-}
 
 int main() {
     double x;

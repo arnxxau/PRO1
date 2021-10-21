@@ -5,14 +5,13 @@
 using namespace std;
 
 int main() {
-    string x;
-    bool start = false, end = false;
+    string word;
+    bool start = false;
     int i = 0;
-    while(cin >> x and not end) {
-        if (x == "end") end = true;
-        else if (start) ++i;
-        else if (x == "beginning") start = true;
+    while(cin >> word and word != "end") {
+        if (start) ++i;
+        else if (word == "beginning") start = true;
     }
-    if (start and end) cout << i << endl;
+    if (start and word == "end") cout << i << endl;
     else cout << "wrong sequence" << endl;
 }
