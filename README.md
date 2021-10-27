@@ -86,8 +86,20 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [X98097](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/X98097.cpp) - Related odd and even positions
 - [P19991](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P19991.cpp) - Chess board (3)
 - [P76024](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P76024.cpp) - Sum of fractions
+- [P24080](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P24080.cpp) - Squares (1)
+- [X80452](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/X80452v3.cpp) - Stamps
+- [X50286](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/X50286.cpp) - How many hello?
+- [X84338](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/X84338.cpp) - Related sum of the halves of a number
+- [P96767](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P96767.cpp) - Polynomial evaluation (1)
+- [P72484](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P72484.cpp) - Rhombus
+- [P61061](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P61061.cpp) - Product of digits
+- [P87323](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P87323.cpp) - Rectangles diagonals
 ## Other resources
 - [Types of intersections](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/types_of_intersections.pdf)
 ---
 
-![Alt Text](https://64.media.tumblr.com/b7e9111da88f6bb75ac5e57d7b07e080/tumblr_pbidbwbqcR1s5wiico1_500.gifv)  
+![Alt Text](https://64.media.tumblr.com/b7e9111da88f6bb75ac5e57d7b07e080/tumblr_pbidbwbqcR1s5wiico1_500.gifv) 
+
+---
+
+![Alt Text](https://statics.vrutal.com/m/6292/62929894b5e708d98c440ddc57403c4b.gif)
