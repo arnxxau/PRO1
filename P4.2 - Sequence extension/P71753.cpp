@@ -5,21 +5,15 @@
 using namespace std;
 
 int main() {
-    int input;
-    int n_seq = 0, max = 0;
-    bool first;
+    int input, n_seq, max;
     while (cin >> input) {
-        if (n_seq == 0) {
-            n_seq = input;
-            if (max != 0) cout << max << endl;
-            first = true;
-            max = 0;
+        n_seq = input;
+        cin >> max;
+        for (int i = 0; n_seq - 1 > i; ++i) {
+            cin >> input;
+            if (input > max) max = input;
         }
-        else {
-            if (input > max or first) max = input;
-            --n_seq;
-            first = false;
-        }
+        cout << max << endl;
     }
-    cout << max << endl;
+
 }
