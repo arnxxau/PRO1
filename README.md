@@ -94,8 +94,19 @@ Here you'll find my solutions to the **_PRO1 2021-2022 Q1_** Jutge.org course. P
 - [P72484](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P72484.cpp) - Rhombus
 - [P61061](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P61061.cpp) - Product of digits
 - [P87323](https://github.com/arnxxau/PRO1/blob/master/Consolidation%201/P87323.cpp) - Rectangles diagonals
+
+## P4.2 - Sequence extension
+- [P17179](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P17179.cpp) - Statistical measures
+- [P90620](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P90620.cpp) - Pica d'Estats
+- [P71753](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P71753.cpp) - Maximum of each sequence
+- [P73501](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P73501.cpp) - Increasing pairs
+- [P35957](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P35957.cpp) - Middle digits
+- [P89979](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/%20P89979.cpp) - Lines in order (1)
+- [P49603](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P49603.cpp) - Lines in order (2)
+- [P87523](https://github.com/arnxxau/PRO1/blob/master/P4.2%20-%20Sequence%20extension/P87523.cpp) - Hello-bye
 ## Other resources
-- [Types of intersections](https://github.com/arnxxau/PRO1/blob/master/P1%20-%20Introduction/types_of_intersections.pdf)
+- [Types of intersections](Other%20resources/types_of_intersections.pdf)
+- [Kantan](Other%20resources/kantan.md)
 ---
 
 ![Alt Text](https://64.media.tumblr.com/b7e9111da88f6bb75ac5e57d7b07e080/tumblr_pbidbwbqcR1s5wiico1_500.gifv) 
