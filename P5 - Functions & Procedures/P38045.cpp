@@ -7,10 +7,9 @@ using namespace std;
 
 int main() {
     int input;
-    cout.setf(ios::fixed);
     while (cin >> input) {
-        cout.precision(0);
-        cout << pow(input, 2) << ' ';
+        cout << input*input << ' ';
+        cout.setf(ios::fixed);
         cout.precision(6);
         cout << sqrt(input) << endl;
     }
