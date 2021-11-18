@@ -1,3 +1,7 @@
+// X58169   Positions of a maximum within two sequences
+// Created by arnxxau on 18/11/21.
+//
+
 #include <iostream>
 using namespace std;
 
