@@ -42,7 +42,6 @@ void print_data(const vector<int>& v) {
  * Input -> a natural number n, followed by n natural numbers between 1000000000 and 1000001000
  * Output -> the frequency of each input
  */
-
 int main () {
     vector<int>v (1001, 0);
     read_data(v);
