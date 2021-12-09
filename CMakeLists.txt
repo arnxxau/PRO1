@@ -135,7 +135,6 @@ add_executable(P21281 "P5 - Functions & Procedures/P21281.cpp")
 add_executable(P50095 "P5 - Functions & Procedures/P50095.cpp")
 add_executable(P33371 "P5 - Functions & Procedures/P33371.cpp")
 add_executable(X06314 "P5 - Functions & Procedures/X06314.cpp")
-add_executable(vector_test vector_test.cpp)
 
 
 set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
@@ -157,3 +156,5 @@ add_executable(P99133 "P7 - Vectors/P99133.cpp")
 add_executable(P50036 "P7 - Vectors/P50036.cpp")
 add_executable(P71310 "P7 - Vectors/P71310.cpp")
 add_executable(P87920 "P7 - Vectors/P87920.cpp")
+add_executable(P14130 "P7 - Vectors/P14130.cpp")
+add_executable(P28318 "P8 - Multidimensional arrays/P28318.cpp")
