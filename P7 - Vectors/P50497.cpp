@@ -1,3 +1,6 @@
+// P50497   Is it a palindrome?
+// Created by arnxxau on 2/12/21.
+//
 #include <vector>
 #include <iostream>
 

@@ -1,3 +1,6 @@
+// X41120   Vector of mountains
+// Created by arnxxau on 10/12/21.
+//
 #include <iostream>
 #include <vector>
 
@@ -24,7 +27,24 @@ int main() {
     cin >> n;
     vector<int> v (n);
     for (int i = 0; n > i; ++i) cin >> v[i];
-    for (auto x : obtain_peaks(v))
-        cout << x << ' ';
+    vector<int> peaks = obtain_peaks(v);
+    int p_size = peaks.size();
+
+    cout << p_size << ':';
+    vector<int> filtered;
+    for (int i = 0; i < p_size; ++i) {
+        if (peaks[i] > peaks[p_size - 1])
+            filtered.push_back(peaks[i]);
+        cout << ' ' << peaks[i];
+    }
+    cout << endl;
+    int f_size = filtered.size();
+    for (int i = 0; i < f_size; ++i) {
+        cout << filtered[i];
+        if (i != f_size - 1)
+            cout << ' ';
+    }
+    if (f_size == 0)
+        cout << '-';
     cout << endl;
 }

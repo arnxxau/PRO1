@@ -1,3 +1,6 @@
+// P85480   Pairs of a sequence (1)
+// Created by arnxxau on 10/12/21.
+//
 #include<iostream>
 #include<vector>
 

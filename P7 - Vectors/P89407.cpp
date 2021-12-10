@@ -1,3 +1,6 @@
+// P89407   F004B. Stable products
+// Created by arnxxau on 10/12/21.
+//
 #include <iostream>
 #include <vector>
 
