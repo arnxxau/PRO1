@@ -12,20 +12,6 @@ bool is_prime (int n, int d) {
     return is_prime(n, ++d);
 }
 
-vector<int> get_pair_sum(const vector<int>& v, int idx) {
-    int v_size = v.size() - 1;
-    vector<int> v_sums (v_size);
-    int initial = v[idx];
-    for (int i = 0; i < v_size; ++i) {
-        if (i != idx) 
-            v_sums[i] = initial + v[i];
-        else { v_sums[i] = initial + v[i + 1];
-            ++i;
-        }
-        }
-    return v_sums;
-}
-
 void read_data(vector<int>& v) {
     int v_size = v.size();
     for (int i = 0; v_size > i; ++i) {
@@ -35,13 +21,21 @@ void read_data(vector<int>& v) {
 
 int main() {
     int n;
-    cin >> n;
-    vector<int> v (n);
-    read_data(v);
-    bool match = false;
-   vector<int> sums = get_pair_sum(v, 0);
-  for (auto x : sums) cout << x << ' '; 
-
-    if (match) cout << "yes" << endl;
-    else cout << "no" << endl;
+    while (cin >> n) {
+        vector<int> v (n);
+        read_data(v);
+        bool match = false;
+        int i = 0;
+        while (not match and i < n) {
+            int j = i;
+            while (not match and j < n) {
+                if (j != i and is_prime(v[i] + v[j], 2))
+                    match = true;
+                ++j;
+            }
+            ++i;
+        }
+        if (match) cout << "yes" << endl;
+        else cout << "no" << endl;
+    }
 }
