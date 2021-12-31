@@ -172,3 +172,6 @@ add_executable(P63414 "P7 - Vectors/P63414.cpp")
 add_executable(P37390 "P8 - Multidimensional arrays/P37390.cpp")
 add_executable(P18660 "P8 - Multidimensional arrays/P18660.cpp")
 add_executable(P88905 "P8 - Multidimensional arrays/P88905.cpp")
+
+add_executable(P87801 "P8 - Multidimensional arrays/P87801.cpp")
+add_executable(ARNAU "P8 - Multidimensional arrays/ARNAU.cpp")

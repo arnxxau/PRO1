@@ -26,9 +26,9 @@ void mark_soup(Matrix& mtrx_mod, const string& s) {
         for (int j = 0; j < clm; ++j) {
             if (s[0] == mtrx[i][j] or s[0] == mtrx[i][j] + 'a' - 'A') {
                 // horizontal search
-                h_match = true;
+                h_match = clm + 1 - j >= s_length;
                 int h = j, k = 0;
-                while (s_length > k and h < clm and h_match and clm + 1 - j >= s_length) {
+                while (s_length > k and h < clm and h_match) {
                     h_match = s[k] == mtrx[i][h] or s[k] == mtrx[i][h] + 'a' - 'A';
                     if (mtrx_mod[i][h] >= 'a' and mtrx_mod[i][h] <= 'z')
                         mtrx_mod[i][h] += 'A' - 'a';
@@ -42,10 +42,10 @@ void mark_soup(Matrix& mtrx_mod, const string& s) {
                 }
 
                 // vertical search
-                v_match = true;
+                v_match = row + 1 - i >= s_length;
                 int v = i;
                 k = 0;
-                while (s_length > k and v < row and v_match and row + 1 - i >= s_length) {
+                while (s_length > k and v < row and v_match) {
                     v_match = s[k] == mtrx[v][j] or s[k] == mtrx[v][j] + 'a' - 'A';
                     if (mtrx_mod[v][j] >= 'a' and mtrx_mod[v][j] <= 'z')
                         mtrx_mod[v][j] += 'A' - 'a';
@@ -57,9 +57,9 @@ void mark_soup(Matrix& mtrx_mod, const string& s) {
                 aux = mtrx_mod;
 
                 // diagonal search
-                d_match = true;
+                d_match = row - i + 1 >= s_length and clm - j + 1>= s_length;
                 h = j, v = i, k = 0;
-                while (s_length > k and v < row and h < clm and d_match and row - i + 1 >= s_length and clm - j + 1>= s_length) {
+                while (s_length > k and v < row and h < clm and d_match) {
                     d_match = s[k] == mtrx[v][h] or s[k] == mtrx[v][h] + 'a' - 'A';
                     if (mtrx_mod[v][h] >= 'a' and mtrx_mod[v][h] <= 'z')
                         mtrx_mod[v][h] += 'A' - 'a';
