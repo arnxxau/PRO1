@@ -23,7 +23,7 @@ vector<int> get_freq_vector() {
     return freq;
 }
 
-void compute_vector_max(vector<int> v, int& max, int& max_idx) {
+void compute_vector_max(const vector<int>& v, int& max, int& max_idx) {
     max = 0, max_idx = 0;
     int v_size = v.size();
     for (int i = 0; i < v_size; ++i) {
