@@ -174,4 +174,5 @@ add_executable(P18660 "P8 - Multidimensional arrays/P18660.cpp")
 add_executable(P88905 "P8 - Multidimensional arrays/P88905.cpp")
 
 add_executable(P87801 "P8 - Multidimensional arrays/P87801.cpp")
-add_executable(ARNAU "P8 - Multidimensional arrays/ARNAU.cpp")
+add_executable(X17276 "P8 - Multidimensional arrays/X17276.cpp")
+add_executable(X82423 "exams/20-21 Q2 C2 T1/X82423.cpp")
