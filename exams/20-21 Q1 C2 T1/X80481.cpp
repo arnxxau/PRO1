@@ -14,8 +14,9 @@ int main() {
         int count = 0;
         int current = 0, post = 0, n_chains = 0;
         int extra = false;
+
         while (pre != 0) {
-            if(current < post or count == 1) post = current;
+            if (current < post or count == 1) post = current;
             current = pre;
             cin >> pre;
             bool down = pre > current and current < post;
