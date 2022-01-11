@@ -11,7 +11,7 @@ using namespace std;
 int remove_zeros(int x) {
     if (x == 0) return 0;
     else if (x%10 != 0) return (x%10) + remove_zeros(x / 10) * 10;
-    else return (x%10) + remove_zeros(x / 10);
+    else return remove_zeros(x / 10);
 }
 
 int main() {
