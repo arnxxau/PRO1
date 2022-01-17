@@ -1,4 +1,4 @@
-// P59652   Read a rational number (1)
+// P59652   Read a simplify number (1)
 // Created by arnxxau on 11/11/21.
 //
 #include <iostream>
